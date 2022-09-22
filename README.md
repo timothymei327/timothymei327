@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Timothy! 👋
+![banner-img](https://i.imgur.com/OMycFN7.png)
 
 I am a software engineer with a diverse background ranging from developing interactive browser-based programs to pioneering efforts within the niche community of NYC/four-wall handball. A natural leader with a passionate inclination towards critical thinking, I strive to learn and build creative but effective applications to bridge the gap between functionality and innovation.
 
