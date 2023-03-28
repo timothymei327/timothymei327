@@ -1,7 +1,7 @@
 ### Hi there, my name is Timothy! 👋
 ![banner-img](https://i.imgur.com/OMycFN7.png)
 
-I am a software engineer with a diverse background ranging from developing interactive browser-based programs to pioneering efforts within the niche community of NYC/four-wall handball. A natural leader with a passionate inclination towards critical thinking, I strive to learn and build creative but effective applications to bridge the gap between functionality and innovation.
+Dedicated Software Engineer delivering end to end product outcomes while working collaboratively in team centric environments. Ability to pinpoint requirements, influence stakeholders, and communicate effectively with cross functional teams of support, development teams, and designers. Excellent project management skills with ability to work with ambiguity and drive project completion with minimal oversight. A natural leader with a passion for critical thinking, I strive to learn and build creative but effective applications to bridge the gap between functionality and innovation.
 
 <!--
 **timothymei327/timothymei327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
